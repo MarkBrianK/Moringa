@@ -1,0 +1,28 @@
+*, *::before *::after {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: aliceblue;
+}
+body {
+    font-family: sans-serif;
+}
+img {
+    width: 50%;
+}
+.btn {
+    padding: 1.7rem 0 2rem;
+    width: 100;
+    min-height: 100vh;
+    overflow: hidden;
+    background-color: #Ec4067;
+    border-radius: 8px;
+}
+header .container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.container span {
+    color: #Ec4067;
+}
