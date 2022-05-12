@@ -1,9 +1,6 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-A landing Page for Moringa School
-=======
-# Moringa
->>>>>>> orgin/main
-=======
 
->>>>>>> 9cd9b188b6f7d5d48aa705048b0c4e7916aae876
+### Moringa school Landing 
+
+#### This project is about reproducing Moringa school Landing pae so as to exercise so as to exercise the concepts that I have learned in HTML and CSS
+
+#### You can follow me on Instagram @_mark_brian Facebook @MarkBrian Karanja
