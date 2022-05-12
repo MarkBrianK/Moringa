@@ -7,4 +7,4 @@
 #### You can follow me on Instagram @_mark_brian Facebook @MarkBrian Karanja
 =======
 
-### Designed by Markbrian Karnja
+### Designed by Markbrian Karanja
