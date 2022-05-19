@@ -2,7 +2,7 @@
 
 ### Moringa school Landing 
 
-#### This project is about reproducing Moringa school Landing pae so as to exercise so as to exercise the concepts that I have learned in HTML and CSS
+#### This project is about reproducing Moringa school Landing pae so as to exercise so as to exercise the concepts that I have learned in HTML and CSS in my first week of study
 
 #### This project widely utilises the use of HTML and CSS
 #### The project is designed by MarkBrian Kariuki Karanja who is ccurrently a student at Moringa school
