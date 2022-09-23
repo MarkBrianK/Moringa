@@ -1,0 +1,207 @@
+*, *::before *::after {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    font-style: normal;
+    margin-left: 10px;
+    font-style: Nunito;
+}
+.container span{
+    color: #Ec4067
+}
+.grid1{
+    width: 70%;
+}
+.heart{
+    color: red;
+}
+img {
+    width: 100%;
+}
+#spn{
+    background-color: rgb(224, 220, 220);
+    color: black;
+    background-position: 10px;
+    font-size: xx-large;
+    font-weight: 500;
+}
+#spn2{
+    font-size: xx-large;
+    color: black;
+    font-weight: 500;
+    margin-right: 10px;
+}
+#stories p{
+    font-size: medium;
+}
+.orientation{
+    margin-top: 15vh;
+    margin-left: 30px;
+}
+.orientation1{
+    margin-top: 8vh;
+     margin-right: 30px;
+}
+.orientation2{
+    margin-top: 5vh;
+    margin-left: 30px;
+}
+.container {
+    padding: 1.7rem 0 2rem;
+    width: 100%;
+}
+.grid23 img {
+    height: 50vh;
+    width: 80%;
+}
+.maincontainer {
+    margin-left: 40px;
+}
+.grid-container img{
+    height: 50vh;
+    width: 80%;
+}
+header .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.links ul {
+    display: flex;
+    list-style: none;
+    align-items: center;
+}
+.links a {
+     color: black;
+     margin-left: 4.5rem;
+     display: inline-block;
+     text-decoration: none;
+}
+.links a:hover {
+    color: blue;
+}
+.btnn {
+    padding: 0.7rem 2.9rem;
+    color: #Ec4067;
+    border-color: #Ec4067;
+    box-shadow: #Ec4067;
+    background-color: white;
+}
+#btnn{
+    margin-left: -0px;
+}
+.btn {
+    display: inline-block;
+    padding: 0.9rem 2.9rem;
+    color: white!important;
+    background-color: #Ec4067;
+    border-radius: 8px;
+    text-transform: capitalize;
+}
+.btn:hover {
+    background-color: black;
+    transform: scale(3s) !important;
+}
+.btnn:hover{
+    background-color: black;
+    transform:scale(3s) !important ;
+    color: white;
+    font-weight: bold;
+}
+.grid1 h1 {
+    color: #Ec4067;
+    font-weight: 100;
+}
+.tech p{
+    display: flex;
+    align-items: center;
+
+}
+.tech #tech  {
+    font-size: medium;
+    color: black;
+}
+.grid9{
+    color: #Ec4067;
+    margin-left: 10px;
+}
+.proj{
+    font-size: medium;
+}
+h1 {
+    color: #Ec4067;
+}
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto;
+    gap: 10px;
+  }
+  .grid-container2 {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    gap: 10px;
+  }
+  .grid-container3 {
+    display: grid;
+    grid-template-columns: auto auto;
+    gap: 10px;
+  }
+  .grid-container3 h2{
+    color: #Ec4067;
+    font-size: xx-large;
+    font-weight: 500;
+  }
+  .grid-container3 p {
+    font-size: x-large;
+    width: 80%;
+  }
+  .pic {
+    position: relative;
+    text-align: center;
+    color: rgb(179, 174, 174);
+  }
+  .bottom-left {
+    position: absolute;
+    bottom: 40px;
+    left: 50px;
+    font-size: x-large;
+  }
+  #lst{
+    width: 100%;
+    margin-left: -60px;
+  }
+  .lst {
+    color: #Ec4067;
+    font-weight: 600;
+  }
+  .lastelement span{
+    color: #Ec4067;
+    text-decoration: none;
+  }
+  .lem {
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    color: white!important;
+    background-color: #Ec4067;
+    border-radius: 8px;
+    text-transform: capitalize;
+  }
+  .lem:hover{
+    background-color: black;
+    transform: scale(3s) !important;
+  }
+  p {
+    font-size: 1.5rem;
+}
+
+  footer .container {
+    padding: 1.7rem 0 2rem;
+    width: 100%;
+    background-color: rgb(235, 235, 235);
+}
+footer h2 {
+    padding-left: 75vh;
+    font-weight: 400;
+}
